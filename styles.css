@@ -1,0 +1,47 @@
+body {
+    background-color: #2e2e2e;
+    color: white;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+    color: #800080;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 20px;
+}
+
+#TopTitle {
+    text-align: center;
+    color: #800080;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 20px;
+    font-size: 3em;
+}
+
+
+li {
+    margin-top: 20px;
+}
+
+a {
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+
+a:hover {
+    color: lightgray;
+}
+
+
+p {
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    line-height: 1.6;
+}
+
+section {
+    padding: 20px;
+}
